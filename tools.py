@@ -33,5 +33,5 @@ class ExaSearchToolset:
     
     
     def _exa():
-        return Exa(api_key="0f582692-90e8-4a52-b44a-a5a1c53c4f93")
+        return Exa(api_key="EXA_KEY")
     
